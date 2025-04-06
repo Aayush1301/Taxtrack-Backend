@@ -51,7 +51,12 @@ Ever wondered where your taxes go? **Taxtrack** is a backend service designed to
 ## Notes
 
 - Comments in the source code have been enhanced using AI to improve clarity and maintainability.
-- The project is licensed under the [MIT License](LICENSE).
+
+## License
+
+This project is licensed under an All Rights Reserved license.
+
+You may not copy, modify, distribute, or use any part of this code without explicit permission from the author.
 
 ---
 
